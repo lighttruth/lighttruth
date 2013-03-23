@@ -1,4 +1,2 @@
-lighttruth
-==========
-
-The truth of whatever is in the world with all point of view.
+<p style="margin-top: 10px; margin-bottom: 0; padding-bottom: 0; text-align: center; line-height: 0;"><a href="http://feeds.feedburner.com/~r/lighttruth/~6/2" target="_blank"><img style="border: 0;" alt="lighttruth.com" src="http://feeds.feedburner.com/lighttruth.2.gif" /></a></p>
+<p style="margin-top: 5px; padding-top: 0; font-size: x-small; text-align: center;"><a onclick="window.open(this.href, 'haHowto', 'width=520,height=600,toolbar=no,address=no,resizable=yes,scrollbars'); return false" href="http://feedburner.google.com/fb/a/headlineanimator/install?id=eohiffh8afcmtmlrk4k9voaf4k&amp;w=2" target="_blank">? Grab this Headline Animator</a></p>
